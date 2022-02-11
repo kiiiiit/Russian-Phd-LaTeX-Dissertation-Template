@@ -65,12 +65,16 @@
 }{\counterwithin{figure}{chapter}}
 \ifnumequal{\value{contnumtab}}{1}{\counterwithout{table}{chapter}
 }{\counterwithin{table}{chapter}}
-\include{Dissertation/part1}           % Глава 1
-\include{Dissertation/part2}           % Глава 2
-\include{Dissertation/part3}           % Глава 3
+%\include{Dissertation/part1}           % Глава 1
+\markdownInput{./Dissertation/md/chap1.md}  % Глава 1
+%\include{Dissertation/part2}           % Глава 2
+\markdownInput{./Dissertation/md/chap2.md}  % Глава 2
+%\include{Dissertation/part3}           % Глава 3
+\markdownInput{./Dissertation/md/chap3.md}  % Глава 3
 \include{Dissertation/conclusion}      % Заключение
 \include{Dissertation/acronyms}        % Список сокращений и условных обозначений
-\include{Dissertation/dictionary}      % Словарь терминов
+%\include{Dissertation/dictionary}      % Словарь терминов
+\markdownInput{./Dissertation/md/dict.md}  % Словарь терминов
 \include{Dissertation/references}      % Список литературы
 \include{Dissertation/lists}           % Списки таблиц и изображений (иллюстративный материал)
 

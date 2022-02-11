@@ -320,6 +320,8 @@ sudo bash ./install.sh
 Сборку можно производить следующими командами:
 
 * диссертация: `latexmk -pdf -pdflatex="xelatex %O %S" dissertation`
+* диссертация (мой вариант): `latexmk -pdf -pdflatex="xelatex %O %S" dissertation --shell-escape -f`
+
 * автореферат: `latexmk -pdf -pdflatex="xelatex %O %S" synopsis`
 
 Либо можно использовать make-файлы (движок `xelatex`): из корневого

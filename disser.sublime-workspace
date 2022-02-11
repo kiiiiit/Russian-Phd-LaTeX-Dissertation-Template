@@ -1,0 +1,526 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"figure",
+				"\\begin{figure}[placement]                         "
+			],
+			[
+				"ma",
+				"markdown"
+			],
+			[
+				"bibl",
+				"\\bibliography{file}                               "
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"LSP-TexLab Settings",
+				"Preferences: LSP-TexLab Settings"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Monokai Pro: select theme",
+				"Monokai Pro: select theme"
+			],
+			[
+				"select th",
+				"UI: Select Theme"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ayu: Activate theme",
+				"ayu: Activate theme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Set Syntax: Git Config"
+			],
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"chk",
+				"Help: Check for Updates"
+			],
+			[
+				"latex",
+				"Build With: LaTeX"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"p",
+				"Pandoc"
+			],
+			[
+				"pan",
+				"Pandoc"
+			],
+			[
+				"merm",
+				"Mermaid: View In Browser"
+			],
+			[
+				"mer",
+				"Mermaid: View In Browser"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 80.0,
+		"history":
+		[
+			"exit()",
+			"exit",
+			"clear",
+			"git"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Synopsis"
+	],
+	"file_history":
+	[
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/chap1.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/setup.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/introduction.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/dict.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/concl.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/concl.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/conclusion.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/test.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/dissertation.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Synopsis/content.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/setup.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/chap3.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/part3.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/chap2.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/part2.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/part1.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/packages.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/appendix.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/dissertation.markdown.in",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/README.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/characteristic.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/_part1.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/dissertation.markdown.err",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/aim.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/_part2.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/part3.aux",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/_characteristic.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/userpackages.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Readme/Installation.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/md/example.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/language-map.json",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/disstyles.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/disser.sublime-project",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/_data.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/data.tex",
+		"/Users/s.dedov/Downloads/DBA/Dissertation-Template/dissertation.tex",
+		"/Users/s.dedov/Downloads/DBA/Dissertation-Template/Dissertation/introduction.tex",
+		"/Users/s.dedov/Downloads/DBA/Dissertation-Template/Synopsis/synstyles.tex",
+		"/Users/s.dedov/Downloads/DBA/Dissertation-Template/Dissertation/part1.tex",
+		"/Users/s.dedov/Downloads/DBA/Dissertation-Template/Synopsis/setup.tex",
+		"/Users/s.dedov/Downloads/DBA/Dissertation-Template/Dissertation/introduction.aux",
+		"/Users/s.dedov/Downloads/DBA/Dissertation-Template/Dissertation/contents.tex",
+		"/Users/s.dedov/Downloads/DBA/Dissertation-Template/Dissertation/title.tex",
+		"/Users/s.dedov/Downloads/DBA/Russian-Phd-LaTeX-Dissertation-Template-master/common/setup.tex",
+		"/Users/s.dedov/Downloads/DBA/Russian-Phd-LaTeX-Dissertation-Template-master/dissertation.tex",
+		"/Users/s.dedov/Downloads/DBA/Russian-Phd-LaTeX-Dissertation-Template-master/common/data.tex",
+		"/Users/s.dedov/Downloads/DBA/Russian-Phd-LaTeX-Dissertation-Template-master/common/packages.tex",
+		"/Users/s.dedov/Library/Application Support/Sublime Text/Packages/BeautifyLatex/BeautifyLatex.sublime-settings",
+		"/Users/s.dedov/Downloads/RS/fio.py",
+		"/Users/s.dedov/Downloads/RS/fio_b.py",
+		"/Users/s.dedov/Downloads/RS/fio.txt",
+		"/Users/s.dedov/Downloads/RS/a.txt",
+		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Helvetica.iatemplate/Contents/Info.plist",
+		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Helvetica.iatemplate/Contents/Resources/style.css",
+		"/Users/s.dedov/Downloads/Resources/core.css",
+		"/Users/s.dedov/Downloads/SD Helvetica.iatemplate/Contents/Resources/title.html",
+		"/Users/s.dedov/Downloads/SD Helvetica.iatemplate/Contents/Resources/document.html",
+		"/Users/s.dedov/Downloads/SD Helvetica.iatemplate/Contents/Resources/header.html",
+		"/Users/s.dedov/Downloads/SD Helvetica.iatemplate/Contents/Resources/footer.html",
+		"/Users/s.dedov/Downloads/SD Helvetica.iatemplate/Contents/Info.plist",
+		"/Users/s.dedov/Downloads/SD Helvetica.iatemplate/Contents/Resources/style.css",
+		"/Users/s.dedov/Downloads/Helvetica.iatemplate/Contents/Info.plist",
+		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD.iatemplate/Contents/Info.plist",
+		"/Users/s.dedov/Downloads/Russian-Phd-LaTeX-Dissertation-Template-master/common/characteristic.tex",
+		"/Users/s.dedov/Downloads/biblatex-3.17 2/biblatex/README",
+		"/Users/s.dedov/Downloads/Russian-Phd-LaTeX-Dissertation-Template-master/dissertation.blg",
+		"/Users/s.dedov/Downloads/Russian-Phd-LaTeX-Dissertation-Template-master/dissertation.bcf",
+		"/Users/s.dedov/Downloads/biblatex-3.17/biblatex/README",
+		"/Users/s.dedov/Downloads/Russian-Phd-LaTeX-Dissertation-Template-master/biblio/external.bib",
+		"/Users/s.dedov/Downloads/Russian-Phd-LaTeX-Dissertation-Template-master/biblio/biblatex.tex",
+		"/Users/s.dedov/Downloads/Russian-Phd-LaTeX-Dissertation-Template-master/Dissertation/setup.tex",
+		"/Users/s.dedov/Downloads/Russian-Phd-LaTeX-Dissertation-Template-master/Presentation/setup.tex",
+		"/Users/s.dedov/Downloads/Russian-Phd-LaTeX-Dissertation-Template-master/Dissertation/title.tex",
+		"/Users/s.dedov/Downloads/Russian-Phd-LaTeX-Dissertation-Template-master/dissertation.tex",
+		"/Users/s.dedov/Downloads/test/pandco commans.txt",
+		"/Users/s.dedov/Downloads/test/1 Титульный лист.md",
+		"/Users/s.dedov/Downloads/test/test.tex",
+		"/Users/s.dedov/Downloads/PSCyr/PSCyr/dvipdfm/base/pscyr2.map",
+		"/usr/local/texlive/2021basic/texmf-dist/web2c/updmap.cfg",
+		"/Users/s.dedov/Downloads/test/chem.bib",
+		"/Users/s.dedov/Downloads/test/BibTeX.bib",
+		"/Users/s.dedov/Downloads/test/test.yaml",
+		"/Users/s.dedov/Downloads/test/test.md",
+		"/Users/s.dedov/Downloads/gostdown-master/gostdown-master/build.ps1",
+		"/Users/s.dedov/Downloads/test/template.markdown",
+		"/Users/s.dedov/Downloads/Кандидатская — копия/!Кандидатская работа.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/4 Основная часть.md",
+		"/Users/s.dedov/Downloads/test/template.tex",
+		"/Users/s.dedov/Downloads/test/template.latex",
+		"/Users/s.dedov/Downloads/test/start.sh",
+		"/Users/s.dedov/Downloads/test/mark_my",
+		"/Users/s.dedov/Library/Application Support/Sublime Text/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/s.dedov/Downloads/test/test_md.html",
+		"/Users/s.dedov/Downloads/Russian-Phd-LaTeX-Dissertation-Template-master/biblio/author.bib",
+		"/Users/s.dedov/Downloads/test/citations.tex",
+		"/Users/s.dedov/Downloads/!Кандидатская работа.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/Test.tex",
+		"/Users/s.dedov/Dropbox/DBA/SD-DBA.dstheme",
+		"/Users/s.dedov/Library/Scripts/Applications/iA Writer/md->deckset.scpt",
+		"/Users/s.dedov/Downloads/random.py",
+		"/Users/s.dedov/Downloads/Yale U.fltr",
+		"/Users/s.dedov/Downloads/Russian GOST Numbered.fmt",
+		"/Users/s.dedov/Dropbox/EMC/Проекты/МОНИКИ/Презентации/220113 Статус МОНИКИ.md",
+		"/Users/s.dedov/Library/Application Support/Bookends/Formats/Russian GOST Numbered — копия.fmt",
+		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Resources/normalize.css",
+		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Resources/style.css",
+		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Resources/core.css",
+		"/Users/s.dedov/Dropbox/EMC/Презентации/Статус МОНИКИ/220113 Статус МОНИКИ.md",
+		"/Users/s.dedov/Downloads/IMG_7772.jpg",
+		"/Users/s.dedov/Downloads/IMG_7773.jpg",
+		"/Users/s.dedov/Downloads/IMG_7774.jpg",
+		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Resources/header.html",
+		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Resources/title.html",
+		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Resources/footer.html",
+		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Info.plist",
+		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Resources/document.html",
+		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Resources/master.js",
+		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/Helvetica SD.iatemplate/Contents/Resources/document.html",
+		"/Users/s.dedov/Downloads/mla/MLA Style — копия.iatemplate/Contents/Resources/footer.html",
+		"/Users/s.dedov/Downloads/mla/MLA Style — копия.iatemplate/Contents/Resources/header.html",
+		"/Users/s.dedov/Downloads/mla/MLA Style — копия.iatemplate/Contents/Resources/document.html",
+		"/Users/s.dedov/Downloads/mla/MLA Style — копия.iatemplate/Contents/Resources/style.css",
+		"/Users/s.dedov/Downloads/mla/MLA Style — копия.iatemplate/Contents/Resources/core.css",
+		"/Users/s.dedov/Downloads/mla/MLA Style — копия.iatemplate/Contents/Info.plist",
+		"/Users/s.dedov/Downloads/mla/MLA Style — копия.iatemplate/Contents/Resources/master.js",
+		"/Users/s.dedov/Dropbox/EMC/Кадры/KPI/Дедов/211220 KPI 2022 Дедов.md",
+		"/Users/s.dedov/Downloads/SD-EMC.dstheme",
+		"/Users/s.dedov/Downloads/SD.dstheme"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"выводы",
+			"sec:ch2/sec1",
+			"concl.tex",
+			"sec:ch1/sec2",
+			"ch1/sec2@cref",
+			"ch1/sec3",
+			"ch1/sec2",
+			"…"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" \\ldots",
+			"\\ldots"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 132.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 33.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 34.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "disser.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
