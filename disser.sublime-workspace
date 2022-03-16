@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"input",
+				"\\input{file}                                      "
+			],
+			[
 				"figure",
 				"\\begin{figure}[placement]                         "
 			],
@@ -19,6 +23,136 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "Dissertation/md/int/progress.md",
+			"settings":
+			{
+				"buffer_size": 2471,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"",
+					null,
+					"AgAAACgHAAAAAAAAKQcAAAAAAAACAAAAICC7BgAAAAAAALwGAAAAAAAAAgAAACAg",
+					"AQAAAAAAAAABAAAAuwYAAAAAAAC9BgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAACMEAAAAAAAAJAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwQAAAAAAAAjBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": " ["
+					},
+					"AgAAACQEAAAAAAAAJQQAAAAAAAAAAAAAJQQAAAAAAAAmBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAQAAAAAAAAkBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "]"
+					},
+					"AQAAACYEAAAAAAAAJwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgQAAAAAAAAmBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "@"
+					},
+					"AQAAACYEAAAAAAAAJwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgQAAAAAAAAmBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"paste",
+					null,
+					"AQAAACcEAAAAAAAANwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwQAAAAAAAAnBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"paste",
+					null,
+					"AQAAACUEAAAAAAAANAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQQAAAAAAAAlBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"cut",
+					null,
+					"AQAAADAEAAAAAAAAMAQAAAAAAAAGAAAA0JAu0KAu",
+					"AQAAAAAAAAABAAAANAQAAAAAAAAwBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"left_delete",
+					null,
+					"AQAAAC8EAAAAAAAALwQAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAMAQAAAAAAAAwBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"left_delete",
+					null,
+					"AQAAAC4EAAAAAAAALgQAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAALwQAAAAAAAAvBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"paste",
+					null,
+					"AQAAACUEAAAAAAAAKQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQQAAAAAAAAlBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACkEAAAAAAAAKgQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQQAAAAAAAApBAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "Dissertation/md/int/tasks.md",
+			"settings":
+			{
+				"buffer_size": 862,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -96,20 +230,56 @@
 		"selected_items":
 		[
 			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ayu: Activate theme",
+				"ayu: Activate theme"
+			],
+			[
 				"ins",
 				"Package Control: Install Package"
 			],
 			[
-				"ter",
-				"Terminal: Open"
+				"rem",
+				"Package Control: Remove Package"
 			],
 			[
 				"re",
 				"Package Control: Remove Package"
 			],
 			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
 				"in",
 				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminal: Open"
 			],
 			[
 				"LSP-TexLab Settings",
@@ -120,28 +290,12 @@
 				"LSP: Enable Language Server Globally"
 			],
 			[
-				"inst",
-				"Package Control: Install Package"
-			],
-			[
 				"Monokai Pro: select theme",
 				"Monokai Pro: select theme"
 			],
 			[
 				"select th",
 				"UI: Select Theme"
-			],
-			[
-				"rem",
-				"Package Control: Remove Package"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Remove Package"
-			],
-			[
-				"ayu: Activate theme",
-				"ayu: Activate theme"
 			],
 			[
 				"remove",
@@ -232,38 +386,77 @@
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Synopsis"
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int"
 	],
 	"file_history":
 	[
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/chap1.md",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/setup.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/introduction.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/_characteristic.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/characteristic.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/newnames.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/actuality.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/progress.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/aim.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/contribution.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/tasks.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/probation.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/reliability.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/methods.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/defpositions.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/novelty.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/influence.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/int.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Synopsis/content.tex",
+		"/Users/s.dedov/Downloads/BibTeX.fmt",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/appendix.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/styles.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/packages.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/presentation.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/data.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/dissertation.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/dict.md",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/concl.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/chap1.md",
+		"/Users/s.dedov/Library/Application Support/Sublime Text/Packages/User/LaTeX.sublime-settings",
+		"/Users/s.dedov/Library/Spelling/LocalDictionary",
+		"/Users/s.dedov/Library/Application Support/Sublime Text/Packages/User/Russian-English Bilingual.dic",
+		"/Users/s.dedov/Library/Spelling/dynamic-counts.dat",
+		"/Users/s.dedov/Library/Spelling/dynamic-text-tmp.dat",
+		"/Users/s.dedov/Library/Spelling/dynamic-text.dat",
+		"/Users/s.dedov/Library/Application Support/Sublime Text/Packages/BeautifyLatex/Default (OSX).sublime-keymap",
+		"/Users/s.dedov/Library/Application Support/Sublime Text/Packages/User/BeautifyLatex.sublime-settings",
+		"/Users/s.dedov/Library/Application Support/Sublime Text/Packages/BeautifyLatex/BeautifyLatex.sublime-settings",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/files/table_test.csv",
+		"/Users/s.dedov/Library/Application Support/Sublime Text/Packages/Advanced CSV/AdvancedCSV.sublime-settings",
+		"/Users/s.dedov/Library/Application Support/Sublime Text/Packages/User/AdvancedCSV.sublime-settings",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/other/concl.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/other/title.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/other.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/markdown-languages.json",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/other/code.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/other/table.csv",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/other/part.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/biblio/biblatex.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/other/data.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/part1.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/biblio/external.bib",
+		"/Users/s.dedov/Downloads/bib.txt",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/concl.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/setup.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/concl.md",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/conclusion.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/test.md",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/dissertation.tex",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Synopsis/content.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/setup.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/chap3.md",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/part3.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/chap2.md",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/part2.tex",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/part1.tex",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/packages.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/appendix.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/dissertation.markdown.in",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/README.md",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/characteristic.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/_part1.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/dissertation.markdown.err",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/aim.md",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/_part2.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/part3.aux",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/_characteristic.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/userpackages.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Readme/Installation.md",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/md/example.md",
@@ -271,7 +464,6 @@
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/disstyles.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/disser.sublime-project",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/_data.tex",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/data.tex",
 		"/Users/s.dedov/Downloads/DBA/Dissertation-Template/dissertation.tex",
 		"/Users/s.dedov/Downloads/DBA/Dissertation-Template/Dissertation/introduction.tex",
 		"/Users/s.dedov/Downloads/DBA/Dissertation-Template/Synopsis/synstyles.tex",
@@ -284,7 +476,6 @@
 		"/Users/s.dedov/Downloads/DBA/Russian-Phd-LaTeX-Dissertation-Template-master/dissertation.tex",
 		"/Users/s.dedov/Downloads/DBA/Russian-Phd-LaTeX-Dissertation-Template-master/common/data.tex",
 		"/Users/s.dedov/Downloads/DBA/Russian-Phd-LaTeX-Dissertation-Template-master/common/packages.tex",
-		"/Users/s.dedov/Library/Application Support/Sublime Text/Packages/BeautifyLatex/BeautifyLatex.sublime-settings",
 		"/Users/s.dedov/Downloads/RS/fio.py",
 		"/Users/s.dedov/Downloads/RS/fio_b.py",
 		"/Users/s.dedov/Downloads/RS/fio.txt",
@@ -326,53 +517,15 @@
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/4 Основная часть.md",
 		"/Users/s.dedov/Downloads/test/template.tex",
 		"/Users/s.dedov/Downloads/test/template.latex",
-		"/Users/s.dedov/Downloads/test/start.sh",
-		"/Users/s.dedov/Downloads/test/mark_my",
-		"/Users/s.dedov/Library/Application Support/Sublime Text/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-		"/Users/s.dedov/Downloads/test/test_md.html",
-		"/Users/s.dedov/Downloads/Russian-Phd-LaTeX-Dissertation-Template-master/biblio/author.bib",
-		"/Users/s.dedov/Downloads/test/citations.tex",
-		"/Users/s.dedov/Downloads/!Кандидатская работа.md",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/Test.tex",
-		"/Users/s.dedov/Dropbox/DBA/SD-DBA.dstheme",
-		"/Users/s.dedov/Library/Scripts/Applications/iA Writer/md->deckset.scpt",
-		"/Users/s.dedov/Downloads/random.py",
-		"/Users/s.dedov/Downloads/Yale U.fltr",
-		"/Users/s.dedov/Downloads/Russian GOST Numbered.fmt",
-		"/Users/s.dedov/Dropbox/EMC/Проекты/МОНИКИ/Презентации/220113 Статус МОНИКИ.md",
-		"/Users/s.dedov/Library/Application Support/Bookends/Formats/Russian GOST Numbered — копия.fmt",
-		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Resources/normalize.css",
-		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Resources/style.css",
-		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Resources/core.css",
-		"/Users/s.dedov/Dropbox/EMC/Презентации/Статус МОНИКИ/220113 Статус МОНИКИ.md",
-		"/Users/s.dedov/Downloads/IMG_7772.jpg",
-		"/Users/s.dedov/Downloads/IMG_7773.jpg",
-		"/Users/s.dedov/Downloads/IMG_7774.jpg",
-		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Resources/header.html",
-		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Resources/title.html",
-		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Resources/footer.html",
-		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Info.plist",
-		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Resources/document.html",
-		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/SD Style.iatemplate/Contents/Resources/master.js",
-		"/Users/s.dedov/Library/Containers/pro.writer.mac/Data/Library/Application Support/iA Writer/Templates/Helvetica SD.iatemplate/Contents/Resources/document.html",
-		"/Users/s.dedov/Downloads/mla/MLA Style — копия.iatemplate/Contents/Resources/footer.html",
-		"/Users/s.dedov/Downloads/mla/MLA Style — копия.iatemplate/Contents/Resources/header.html",
-		"/Users/s.dedov/Downloads/mla/MLA Style — копия.iatemplate/Contents/Resources/document.html",
-		"/Users/s.dedov/Downloads/mla/MLA Style — копия.iatemplate/Contents/Resources/style.css",
-		"/Users/s.dedov/Downloads/mla/MLA Style — копия.iatemplate/Contents/Resources/core.css",
-		"/Users/s.dedov/Downloads/mla/MLA Style — копия.iatemplate/Contents/Info.plist",
-		"/Users/s.dedov/Downloads/mla/MLA Style — копия.iatemplate/Contents/Resources/master.js",
-		"/Users/s.dedov/Dropbox/EMC/Кадры/KPI/Дедов/211220 KPI 2022 Дедов.md",
-		"/Users/s.dedov/Downloads/SD-EMC.dstheme",
-		"/Users/s.dedov/Downloads/SD.dstheme"
+		"/Users/s.dedov/Downloads/test/start.sh"
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 61.0
 	},
 	"find_in_files":
 	{
-		"height": 138.0,
+		"height": 155.0,
 		"where_history":
 		[
 			""
@@ -383,6 +536,43 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"  ",
+			"- ",
+			"по~формулировкам защищаемых положений",
+			"characteristic.tex",
+			"markdownInput{./Dissertation/md/int",
+			"markdownInput{./Dissertation/md/int.md",
+			"aimTXT",
+			"Целью",
+			"Через проверку условия",
+			"Этот абзац появляется только в диссертации.",
+			"Muradova:2021aa",
+			"Novikov:2020aa",
+			"pre",
+			"present",
+			"todo",
+			"\\todo",
+			"dvipsnames, table, hyperref",
+			"todonotes",
+			"todo",
+			"dvipsnames",
+			"xcolor",
+			"todonotes",
+			"\\usepackage{float}",
+			"\\~",
+			"tab",
+			"part1",
+			"part1.tex",
+			"tab:tab_pref",
+			"appendix",
+			"appendix.tex",
+			"tab_pref",
+			" ",
+			"=true",
+			"xcolor",
+			"pgfplotstable",
+			"Russian",
+			"volume",
 			"выводы",
 			"sec:ch2/sec1",
 			"concl.tex",
@@ -398,6 +588,13 @@
 		"regex": true,
 		"replace_history":
 		[
+			" ",
+			"",
+			"~",
+			"",
+			" = true",
+			"",
+			"Russian",
 			" \\ldots",
 			"\\ldots"
 		],
@@ -414,16 +611,248 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Dissertation/md/int/progress.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1586,
+								1586
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1585,
+										1586
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"region.bluish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1551,
+										1552
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"rainbow_checked": true,
+							"syntax": "Packages/MarkdownEditing/syntaxes/Markdown.sublime-syntax",
+							"tabnav.implicit_enable": true,
+							"tabnav_view_settings_listener": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 517.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Dissertation/md/int/tasks.md",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"rainbow_checked": true,
+							"syntax": "Packages/MarkdownEditing/syntaxes/Markdown.sublime-syntax",
+							"tabnav.implicit_enable": true,
+							"tabnav_view_settings_listener": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 30.0
+		"height": 39.0
 	},
 	"input":
 	{
-		"height": 40.0
+		"height": 59.0
 	},
 	"layout":
 	{
@@ -476,11 +905,15 @@
 	{
 		"height": 34.0
 	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
 	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"project": "disser.sublime-project",
 	"replace":
 	{
-		"height": 56.0
+		"height": 108.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -514,11 +947,11 @@
 	"settings":
 	{
 	},
-	"show_minimap": false,
+	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 224.0,
+	"side_bar_width": 287.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

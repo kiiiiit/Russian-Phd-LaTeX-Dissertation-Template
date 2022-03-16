@@ -1,12 +1,7 @@
 %&preformat-disser
 \RequirePackage[l2tabu,orthodox]{nag} % Раскомментировав, можно в логе получать рекомендации относительно правильного использования пакетов и предупреждения об устаревших и нерекомендуемых пакетах
 % Формат А4, 14pt (ГОСТ Р 7.0.11-2011, 5.3.6)
-\documentclass[
-	a4paper,
-	14pt,
-	oneside,
-	openany,
-	]{memoir}
+\documentclass[a4paper,14pt,oneside,openany]{memoir}
 
 \input{common/setup}            % общие настройки шаблона
 \input{common/packages}         % Пакеты общие для диссертации и автореферата
@@ -61,27 +56,23 @@
 \input{common/renames}
 
 %%% Структура диссертации (ГОСТ Р 7.0.11-2011, 4)
-\include{Dissertation/title}           % Титульный лист
-\include{Dissertation/contents}        % Оглавление
+%\include{other/title}           % Титульный лист
+%\include{Dissertation/contents}        % Оглавление
 \ifnumequal{\value{contnumfig}}{1}{}{\counterwithout{figure}{chapter}}
 \ifnumequal{\value{contnumtab}}{1}{}{\counterwithout{table}{chapter}}
-\include{Dissertation/introduction}    % Введение
+%\include{Dissertation/introduction}    % Введение
+
+\markdownInput{./other/other.md}
+
 \ifnumequal{\value{contnumfig}}{1}{\counterwithout{figure}{chapter}
 }{\counterwithin{figure}{chapter}}
 \ifnumequal{\value{contnumtab}}{1}{\counterwithout{table}{chapter}
 }{\counterwithin{table}{chapter}}
-%\include{Dissertation/part1}           % Глава 1
-\markdownInput{./Dissertation/md/chap1.md}  % Глава 1
-%\include{Dissertation/part2}           % Глава 2
-\markdownInput{./Dissertation/md/chap2.md}  % Глава 2
-%\include{Dissertation/part3}           % Глава 3
-\markdownInput{./Dissertation/md/chap3.md}  % Глава 3
-\include{Dissertation/conclusion}      % Заключение
-\include{Dissertation/acronyms}        % Список сокращений и условных обозначений
-%\include{Dissertation/dictionary}      % Словарь терминов
-\markdownInput{./Dissertation/md/dict.md}  % Словарь терминов
+
+\markdownInput{./other/concl.md}      % Заключение
+
 \include{Dissertation/references}      % Список литературы
-\include{Dissertation/lists}           % Списки таблиц и изображений (иллюстративный материал)
+%\include{Dissertation/lists}           % Списки таблиц и изображений (иллюстративный материал)
 
 \setcounter{totalchapter}{\value{chapter}} % Подсчёт количества глав
 
@@ -93,8 +84,7 @@
 \renewcommand\thechapter{\Asbuk{chapter}} % Чтобы приложения русскими буквами нумеровались
 
 %\include{Dissertation/appendix}        % Приложения
-\markdownInput{./Dissertation/md/appendix.md}  % Приложения
 
-\setcounter{totalappendix}{\value{chapter}} % Подсчёт количества приложений
+%\setcounter{totalappendix}{\value{chapter}} % Подсчёт количества приложений
 
 \end{document}

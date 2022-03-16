@@ -1,17 +1,24 @@
+\makeatletter
+\renewcommand*{\fps@table}{h!}
+\makeatother
+\usepackage[dvipsnames, table, hyperref]{xcolor} % Совместимо с tikz
+\usepackage[textsize=tiny]{todonotes}
+\usepackage{datetime}
 \usepackage[
-    %inlineFootnotes=true,
-    %footnotes=true,
-    hashEnumerators=true,
-    definitionLists=true,
-    pipeTables=true,
-    tableCaptions=true,
-    smartEllipses=true,
-    hybrid=true,
-    citations=true,
-    citationNbsps=true,
-    %contentBlocks=true,
-    headerAttributes=true,
-    %html=true,
+    inlineFootnotes = true,
+    %footnotes = true,
+    hashEnumerators = true,
+    definitionLists = true,
+    pipeTables = true,
+    tableCaptions = true,
+    smartEllipses = true,
+    hybrid = true,
+    citations = true,
+    citationNbsps = true,
+    contentBlocks = true,
+    headerAttributes = true,
+    %relativeReferences = true,
+    %html = true,
     cacheDir = /tmp,
     ]{markdown}
 
@@ -125,10 +132,10 @@
 \fi
 
 %%% Цвета %%%
-\ifpresentation
-\else
-    \usepackage[dvipsnames, table, hyperref]{xcolor} % Совместимо с tikz
-\fi
+% \ifpresentation
+% \else
+%     \usepackage[dvipsnames, table, hyperref]{xcolor} % Совместимо с tikz
+% \fi
 
 %%% Таблицы %%%
 \usepackage{longtable,ltcaption} % Длинные таблицы
