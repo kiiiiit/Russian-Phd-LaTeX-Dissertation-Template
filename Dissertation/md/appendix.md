@@ -1,4 +1,4 @@
-# Обязательное приложение \label{app:A}
+<!-- # Обязательное приложение \label{app:A}
 Test app A
 
 # Примеры кода/таблиц/исходников \label{app:B}
@@ -12,4 +12,4 @@ test tab
 /Dissertation/md/files/table_test.csv  'Tab1\label{tab:tab1}'
 
 # Перечень примечаний
-\listoftodos
+\listoftodos -->
