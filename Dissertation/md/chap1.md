@@ -23,12 +23,12 @@ See [my website][].
 
 ## Definitions
 
-**Term 1[@Muradova:2021aa]**
-Definition 1[@Novikov:2020aa]
+**Term 1**
+Definition 1
 : test pic test~\ref{fig:test}
 : test pic test2~\ref{fig:test2}
-Term 2 with *inline markup*[@Ivankina:2016aa]
-: Definition 2[@Ivankina:2014aa]
+Term 2 with *inline markup*
+: Definition 2
 : Here we can reference\textbf{Figure~\ref{fig:test}}
 
 
