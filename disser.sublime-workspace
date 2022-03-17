@@ -100,6 +100,14 @@
 		"selected_items":
 		[
 			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
 				"scheme",
 				"UI: Select Color Scheme"
 			],
@@ -112,16 +120,8 @@
 				"Package Control: Install Package"
 			],
 			[
-				"rem",
-				"Package Control: Remove Package"
-			],
-			[
 				"re",
 				"Package Control: Remove Package"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
 			],
 			[
 				"dis",
@@ -261,37 +261,44 @@
 	],
 	"file_history":
 	[
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/actuality.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/Установка и сборка.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/data.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/lastPhrase.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/conclusion.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/dict.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/novelty.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/probation.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/methods.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/defpositions.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/characteristic.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/dissertation.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/concl.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/chap3.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/chap2.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/chap1.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/appendix.md",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/contribution.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/reliability.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/influence.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/tasks.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/aim.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/packages.tex",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/progress.md",
+		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/biblio/biblatex.tex",
 		"/Users/s.dedov/Library/Application Support/Bookends/Custom Formats/Russian GOST Numbered.fmt",
 		"/Users/s.dedov/Library/Application Support/Bookends/Custom Formats/gost-r-7-0-5-2008-numeric-alphabetical.csl",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/biblio/Library.bib",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/biblio/external.bib",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/biblio/biblatex.tex",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/characteristic.tex",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/actuality.md",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/progress.md",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/introduction.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/_characteristic.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/newnames.tex",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/aim.md",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/tasks.md",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/probation.md",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/reliability.md",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/methods.md",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/defpositions.md",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/novelty.md",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/influence.md",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/int/int.md",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Synopsis/content.tex",
 		"/Users/s.dedov/Downloads/BibTeX.fmt",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/appendix.md",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/styles.tex",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/packages.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/presentation.tex",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/data.tex",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/dissertation.tex",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/dict.md",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/chap1.md",
 		"/Users/s.dedov/Library/Application Support/Sublime Text/Packages/User/LaTeX.sublime-settings",
 		"/Users/s.dedov/Library/Spelling/LocalDictionary",
 		"/Users/s.dedov/Library/Application Support/Sublime Text/Packages/User/Russian-English Bilingual.dic",
@@ -316,13 +323,9 @@
 		"/Users/s.dedov/Downloads/bib.txt",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/concl.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/common/setup.tex",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/concl.md",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/conclusion.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/test.md",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/setup.tex",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/chap3.md",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/part3.tex",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/md/chap2.md",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/part2.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/Dissertation/appendix.tex",
 		"/Users/s.dedov/Dropbox/DBA/Кандидатская/SD-disser/dissertation.markdown.in",
@@ -385,10 +388,7 @@
 		"/Users/s.dedov/Downloads/test/BibTeX.bib",
 		"/Users/s.dedov/Downloads/test/test.yaml",
 		"/Users/s.dedov/Downloads/test/test.md",
-		"/Users/s.dedov/Downloads/gostdown-master/gostdown-master/build.ps1",
-		"/Users/s.dedov/Downloads/test/template.markdown",
-		"/Users/s.dedov/Downloads/Кандидатская — копия/!Кандидатская работа.md",
-		"/Users/s.dedov/Dropbox/DBA/Кандидатская/4 Основная часть.md"
+		"/Users/s.dedov/Downloads/gostdown-master/gostdown-master/build.ps1"
 	],
 	"find":
 	{
@@ -407,6 +407,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"При использовании пакета",
+			"–",
+			"@",
+			"Ivankina:2014aa",
+			"aa",
+			":",
 			"ingema",
 			"ingem",
 			"external",
@@ -463,6 +469,8 @@
 		"regex": true,
 		"replace_history":
 		[
+			"-",
+			"",
 			" ",
 			"",
 			"~",
@@ -556,7 +564,7 @@
 	"project": "disser.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 100.0
 	},
 	"save_all_on_build": true,
 	"select_file":
