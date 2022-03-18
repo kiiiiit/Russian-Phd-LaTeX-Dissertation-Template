@@ -392,7 +392,7 @@
 	],
 	"find":
 	{
-		"height": 57.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -509,7 +509,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 37.0
+		"height": 35.0
 	},
 	"input":
 	{
@@ -574,7 +574,7 @@
 	"project": "disser.sublime-project",
 	"replace":
 	{
-		"height": 100.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
