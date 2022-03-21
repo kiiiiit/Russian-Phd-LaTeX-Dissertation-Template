@@ -8,7 +8,7 @@
 на движке Biber.
 ### Добавлено от меня:
 * Написание текстов на [Markdown](https://ru.wikipedia.org/wiki/Markdown)
-* Объединенный файл разметки языка **LaTeX+Markdown** для [Sublime Text](https://www.sublimetext.com)
+* Объединенный файл разметки языка **[LaTeX](https://github.com/sublimehq/Packages/blob/master/LaTeX/LaTeX.sublime-syntax)+[Markdown](https://github.com/sublimehq/Packages/blob/master/Markdown/Markdown.sublime-syntax)** для [Sublime Text](https://www.sublimetext.com)
 * Добавлен каталог **Other** для вёрстки всяческих ситуативных бумаг.
 
 [**Примеры компиляции шаблона**](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template/releases/latest).
