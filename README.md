@@ -1,4 +1,4 @@
-LaTeX-шаблон для русской кандидатской диссертации и её автореферата.
+`Мой вариант LaTeX-шаблона для русской кандидатской диссертации и её автореферата.`
 
 ## Особенности
 * Кодировка: UTF-8.
@@ -6,6 +6,10 @@ LaTeX-шаблон для русской кандидатской диссерт
 * Поддерживаемые движки: pdfTeX, XeTeX, LuaTeX.
 * Поддерживаемые реализации библиографии: встроенная на движке BibTeX, BibLaTeX
 на движке Biber.
+### Добавлено от меня:
+* Написание текстов на [Markdown](https://ru.wikipedia.org/wiki/Markdown)
+* Объединенный файл разметки языка **LaTeX+Markdown** для [Sublime Text](https://www.sublimetext.com)
+* Добавлен каталог **Other** для вёрстки всяческих ситуативных бумаг.
 
 [**Примеры компиляции шаблона**](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template/releases/latest).
 

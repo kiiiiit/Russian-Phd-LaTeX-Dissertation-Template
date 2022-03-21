@@ -37,6 +37,7 @@
 }{
     \input{biblio/biblatex}     % Реализация пакетом biblatex через движок biber
 }
+\addbibresource{biblio/external.bib}
 
 % Вывести информацию о выбранных опциях в лог сборки
 \typeout{Selected options:}
@@ -61,7 +62,7 @@
 \ifnumequal{\value{contnumtab}}{1}{\counterwithout{table}{chapter}
 }{\counterwithin{table}{chapter}}
 
-\markdownInput{./other/other.md}    % Основной текст
+\markdownInput{./other/other.md.tex}    % Основной текст
 
 \markdownInput{./other/concl.md}    % Подпись
 
@@ -69,5 +70,6 @@
 %\include{Dissertation/lists}       % Списки таблиц и изображений (иллюстративный материал)
 
 \setcounter{totalchapter}{\value{chapter}} % Подсчёт количества глав
+
 
 \end{document}
